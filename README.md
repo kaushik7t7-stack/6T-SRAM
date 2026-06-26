@@ -393,7 +393,7 @@ Every cycle follows: Precharge (PC LOW) → Release (PC HIGH) → Write (WL + Wr
 
 ## Author
 
-**Kaushik T**
+**Kaushik N**
 B.E. Electronics and Communication Engineering
 Chennai Institute of Technology, Kundrathur, Chennai
 Email:kaushik7t7@gmail.com
